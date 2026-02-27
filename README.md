@@ -1,1 +1,1 @@
-# NLP---Based-medical-Chatbot
+# medical-chatbot-using-machiine-learning-and-nlp
